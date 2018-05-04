@@ -28,4 +28,7 @@ npm run build
 
 ## 预览效果
 
-### 更新中...
+![xiahuahua](https://github.com/xiahuahua/vue-admin-demo/blob/master/src/assets/jtImg1.png)
+![xiahuahua](https://github.com/xiahuahua/vue-admin-demo/blob/master/src/assets/jtImg2.png)
+![xiahuahua](https://github.com/xiahuahua/vue-admin-demo/blob/master/src/assets/jtImg3.png)
+![xiahuahua](https://github.com/xiahuahua/vue-admin-demo/blob/master/src/assets/jtImg4.png)
