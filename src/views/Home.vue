@@ -177,7 +177,7 @@
 				border-color: #f0f0f0;
 				border-right-width: 1px;
 				border-right-style: solid;
-				background: url("../../src/assets/logo.png") no-repeat center;
+				background: url("http://img4.duitang.com/uploads/item/201511/26/20151126112617_vUaQf.jpeg") no-repeat center;
 				background-size: 60%;
 				background-color: #ffffff;
 				img {
