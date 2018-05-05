@@ -10,7 +10,9 @@
 
 ## 在线演示
 
-### 更新中...
+### 线上访问
+
+[在线演示戳我!戳我!](https://xiahuahua.github.io/vue-admin-demo)
 
 ## 安装运行（Build Setup）
 
